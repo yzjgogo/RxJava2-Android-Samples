@@ -16,6 +16,11 @@ import io.reactivex.functions.Consumer;
 
 public class MyApplication extends Application {
 
+
+
+
+
+
     public static final String TAG = "MyApplication";
     private RxBus bus;
 
