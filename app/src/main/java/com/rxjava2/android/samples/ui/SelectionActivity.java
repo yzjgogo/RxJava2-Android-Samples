@@ -11,6 +11,9 @@ import com.rxjava2.android.samples.ui.networking.NetworkingActivity;
 import com.rxjava2.android.samples.ui.pagination.PaginationActivity;
 import com.rxjava2.android.samples.ui.rxbus.RxBusActivity;
 
+/**
+ * 主页
+ */
 public class SelectionActivity extends AppCompatActivity {
 
     @Override
